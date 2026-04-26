@@ -327,7 +327,7 @@ function initFormContato() {
     btn.textContent = "Enviando...";
 
     try {
-      await emailjs.send("service_z34vhb8", "template_o55c561", { // Troque pelo seu service ID e template ID do EmailJS
+      await emailjs.send("service_z34vhb8", "template_pwirusg", { // Troque pelo seu service ID e template ID do EmailJS
         nome: nome,
         email: email,
         assunto: assunto,

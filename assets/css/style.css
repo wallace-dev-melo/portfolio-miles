@@ -19,7 +19,7 @@
   --border: #2A2A2A;
   --border-soft: rgba(129, 140, 248, 0.12);
 
-  --accent: #3194B6;
+  --accent: rgb(203, 21, 21);
   --accent-deep: #216379;
   --accent-glow: rgba(129, 140, 248, 0.18);
 
@@ -52,11 +52,11 @@ html.light {
   --border: #D2D6F5;
   --border-soft: rgba(79, 70, 229, 0.12);
 
-  --accent: #006788;
-  --accent-deep: #003444;
+  --accent: #590808;
+  --accent-deep: #521717;
   --accent-glow: rgba(79, 70, 229, 0.14);
 
-  --text: #1A1B35;
+  --text: #171717;
   --text-muted: #6B6E95;
   --text-faint: #C8CBE8;
 

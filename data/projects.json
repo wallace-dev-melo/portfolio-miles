@@ -1,86 +1,64 @@
 {
   "projetos": [
     {
-      "titulo": "Portfólio Pessoal",
-      "descricao": "Site de portfólio para apresentar projetos, habilidades e informações de contato.",
-      "emoji": "👨‍💻",
-      "techs": ["HTML", "CSS", "JavaScript"],
-      "status": "Concluído",
-      "ano": "2026",
-      "github": "https://github.com/WallaceMichael/portfolio-dev-etepd",
-      "demo": null
-    },
-    {
       "titulo": "App do Tempo",
-      "descricao": "Previsão do tempo de qualquer cidade com geolocalização e ícones dinâmicos. Consume a API do OpenWeather.",
+      "descricao": "Previsão do tempo de qualquer cidade com geolocalização, ícones dinâmicos e histórico de buscas. Consume a API do OpenWeather.",
       "emoji": "🌦️",
       "techs": ["JavaScript", "CSS", "API REST"],
       "status": "Concluído",
-      "ano": "2026",
-      "github": "https://github.com/WallaceMichael/api-clima",
-      "demo": "https://wallacemichael.github.io/api-clima/"
+      "ano": "2024",
+      "github": "https://github.com/seuuser/app-tempo",
+      "demo": "https://app-tempo.netlify.app"
     },
     {
-      "titulo": "Hero GTA VI",
-      "descricao": "Recriação da hero do site oficial do GTA VI, com GSAP + ScrollTrigger para animações e interatividade.",
-      "emoji": "🎮",
-      "techs": ["GSAP", "ScrollTrigger", "JavaScript"],
+      "titulo": "Task Manager",
+      "descricao": "Gerenciador de tarefas com drag-and-drop, categorias, filtros e persistência no LocalStorage.",
+      "emoji": "📋",
+      "techs": ["React", "TypeScript", "CSS"],
+      "status": "Concluído",
+      "ano": "2024",
+      "github": "https://github.com/seuuser/task-manager",
+      "demo": null
+    },
+    {
+      "titulo": "Loja Virtual",
+      "descricao": "E-commerce com carrinho de compras, filtros por categoria e integração com gateway de pagamento.",
+      "emoji": "🛒",
+      "techs": ["Next.js", "Node.js", "PostgreSQL"],
+      "status": "Concluído",
+      "ano": "2024",
+      "github": "https://github.com/seuuser/loja",
+      "demo": null
+    },
+    {
+      "titulo": "Blog Pessoal",
+      "descricao": "Plataforma de blog com editor rich text, sistema de tags, comentários e painel de administração.",
+      "emoji": "✍️",
+      "techs": ["React", "Node.js", "MongoDB"],
       "status": "Em desenvolvimento",
-      "ano": "2026",
-      "github": "https://github.com/WallaceMichael/hero-gta-vi",
-      "demo": "https://wallacemichael.github.io/hero-gta-vi/"
-
-    },
-    {
-      "titulo": "Plataforma WoHub",
-      "descricao": "Plataforma de cursos online com sistema de login, catálogo de cursos, aulas em vídeo e avaliações.",
-      "emoji": "🎓",
-      "techs": ["PHP", "Vue", "Blade", "TypeScript"],
-      "status": "Concluído",
-      "ano": "2025",
-      "github": "https://github.com/WallaceMichael/wohub",
+      "ano": "2024",
+      "github": "https://github.com/seuuser/blog",
       "demo": null
     },
     {
-      "titulo": "Site Verdanatech",
-      "descricao": "Site institucional para empresa de tecnologia, com seções ",
-      "emoji": "🏢",
-      "techs": ["WordPress", "Elementor", "CSS", "JS"],
+      "titulo": "Calculadora",
+      "descricao": "Calculadora funcional com operações básicas, histórico de cálculos e tema claro/escuro.",
+      "emoji": "🧮",
+      "techs": ["JavaScript", "HTML", "CSS"],
       "status": "Concluído",
-      "ano": "2025",
-      "github": null,
-      "demo": "https://verdanatech.com"
+      "ano": "2023",
+      "github": "https://github.com/seuuser/calc",
+      "demo": "https://calc.netlify.app"
     },
     {
-      "titulo": "Landing Page de Treinamento",
-      "descricao": "Landing animada, SEO otimizado com formulário de inscrição e depoimentos de alunos.",
-      "emoji": "📚",
-      "techs": ["WordPress", "Elementor", "PHP", "JS"],
-      "status": "Concluído",
-      "ano": "2025",
-      "github": null,
-      "demo": "https://pg.empreenderdinheiro.com.br/lc/consultor-financeiro-em-um-dia-a-gg-ads/3ed/"
-    },
-    {
-      "titulo": "MovieStar",
-      "descricao": "Plataforma para criar, visualizar e editar filmes na sua área de membros.",
-      "emoji": "🎬",
-      "techs": ["PHP", "CSS", "bootstrap", "MySQL"],
-      "status": "Concluído",
-      "ano": "2026",
-      "github": "https://github.com/WallaceMichael/moviestar",
+      "titulo": "Chat em Tempo Real",
+      "descricao": "Aplicativo de chat com salas públicas e privadas, emojis e indicador de digitação via WebSockets.",
+      "emoji": "💬",
+      "techs": ["React", "Node.js", "Socket.io"],
+      "status": "Pausado",
+      "ano": "2023",
+      "github": "https://github.com/seuuser/chat",
       "demo": null
-    },
-    {
-      "titulo": "Blog Verdanadesk",
-      "descricao": "Blog para verdanatech, com conteúdo sobre tecnologia e desenvolvimento.",
-      "emoji": "📝",
-      "techs": ["WordPress", "Elementor", "PHP", "JS"],
-      "status": "Concluído",
-      "ano": "2025",
-      "github": null,
-      "demo": "https://verdanadesk.com/blog"
     }
-    
   ]
 }
